@@ -58,7 +58,7 @@ Se necesita representar una entidad que permite administrar Instituciones Educat
 
 ## Problema 4
 
-Para un sistema, es necesario abstraer las características de dispositivos electrónicos _Equipo celulares_. Cada Equipo Celular tienen como características: sistema operativo, tamaño de pantalla, costo inicial, iva en porcentaje, iva del costo inicial costo final, dirección mac, información IMEI. El costo final del equipo es igual costo inicial más el iva del costo inicial. 
+Para un sistema, es necesario abstraer las características de dispositivos electrónicos _Equipo celulares_. Cada Equipo Celular tienen como características: sistema operativo, tamaño de pantalla, costo inicial, iva en porcentaje, costo inicial con iva, costo final, dirección mac, información IMEI. El costo final del equipo es igual costo inicial más el iva del costo inicial. 
 
 > [!Note]
 > - Luego del análisis, modele y codifique su solución con las clases necesarias. Interactúe en la prueba, respetando el _MVC_. Use directamente los constructores y _**toString()**_. 
